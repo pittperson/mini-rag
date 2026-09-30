@@ -78,25 +78,25 @@ Context:
     return response.output_text
 
 
-question = input("\nAsk a question: ")
+# question = input("\nAsk a question: ")
 
-results = search(question)
+# results = search(question)
 
-print("\nRetrieved sections:\n")
+# print("\nRetrieved sections:\n")
 
-for source, section, content, similarity in results:
+# for source, section, content, similarity in results:
 
-    print("=" * 60)
-    print(f"Source: {source}")
-    print(f"Section: {section}")
-    print(f"Similarity: {similarity:.4f}")
-    print(content)
+#     print("=" * 60)
+#     print(f"Source: {source}")
+#     print(f"Section: {section}")
+#     print(f"Similarity: {similarity:.4f}")
+#     print(content)
 
 
-answer = generate_answer(question, results)
+# answer = generate_answer(question, results)
 
-print("\n")
-print("=" * 60)
-print("ANSWER")
-print("=" * 60)
-print(answer)
+# print("\n")
+# print("=" * 60)
+# print("ANSWER")
+# print("=" * 60)
+# print(answer)

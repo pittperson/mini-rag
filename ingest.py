@@ -13,7 +13,7 @@ client = OpenAI()
 
 DATABASE_URL = "postgresql://localhost/mini_rag"
 
-DOCUMENTS_DIR = Path("documents")
+DOCUMENTS_DIR = Path("../chrislies/content/case-studies")
 
 
 # --------------------------------------------------
