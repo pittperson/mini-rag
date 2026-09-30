@@ -10,13 +10,17 @@ draft: false
 ---
 
 ## Situation
-Served as the dedicated pre-sales Solutions Engineer for a major retail account, starting when its annual spend was around $15M, while also owning a second dedicated strategic account.
+Served as the dedicated pre-sales Solutions Engineer for a major retail enterprise account with more than 1,700 stores. I inherited the account when its annual technology spend was approximately $15M and was responsible for supporting the account's infrastructure strategy and technical sales efforts. I simultaneously owned a second dedicated strategic enterprise account. My role involved developing long-term technical relationships with customer infrastructure teams, understanding their data center and edge-computing requirements, and identifying opportunities to modernize their infrastructure.
 
 ## Action
-Architected an enterprise-wide infrastructure modernization across 1,700+ stores, covering VMware (VCF, vSphere, ESX, NSX, vSAN), SAN/NAS storage, and networking, pushing compute to the edge. Owned evaluations, benchmarks, and proof-of-concepts that displaced incumbent vendors across server, storage, and networking.
+Architected and supported an enterprise-wide infrastructure modernization program spanning more than 1,700 retail locations. The solution covered VMware virtualization and private-cloud technologies including VMware Cloud Foundation (VCF), vSphere, ESX, NSX, and vSAN, along with enterprise SAN/NAS storage, Dell server infrastructure, and data center networking. Helped move compute and infrastructure capabilities closer to the retail-store edge to support distributed workloads.
+
+Led technical evaluations, performance benchmarks, proof-of-concepts, architecture discussions, and competitive displacements across compute, storage, virtualization, and networking. Worked directly with customer technical stakeholders to evaluate incumbent infrastructure, demonstrate technical and business value, and develop multi-year modernization strategies. The engagement evolved from individual technology opportunities into ownership of the customer's broader infrastructure direction.
 
 ## Result
-Grew the account from $15M to over $200M in annual spend. Recognized as Dell Technologies SE of the Year (2020), Top District SE (FY20 Q1), and SE of the Quarter (FY19 Q2).
+Grew the customer's annual technology spend from approximately $15M to more than $200M over the course of the account relationship. The growth resulted from expanding the relationship beyond individual product opportunities into a broad, enterprise-wide infrastructure strategy spanning servers, storage, virtualization, networking, and edge computing.
 
-## Skills demonstrated
-Long-horizon account stewardship — compounding technical wins and trust over years until owning the account's full infrastructure direction.
+The technical sales performance and account growth were recognized with multiple Dell Technologies awards, including SE of the Year (2020), Top District SE (FY20 Q1), and SE of the Quarter (FY19 Q2).
+
+## Skills Demonstrated
+Demonstrated long-term enterprise account stewardship, strategic technical selling, infrastructure architecture, competitive displacement, and executive/customer relationship development. Built credibility over multiple years by connecting individual technical solutions to larger modernization initiatives, ultimately becoming a trusted technical advisor responsible for shaping the customer's overall infrastructure direction.
