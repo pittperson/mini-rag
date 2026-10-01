@@ -1,19 +1,30 @@
 from openai import OpenAI
 import psycopg
 
+from dotenv import load_dotenv
+import os
 
-client = OpenAI()
+load_dotenv()
+
+from openai import OpenAI
+
+client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 
 DATABASE_URL = "postgresql://localhost/mini_rag"
 
 
 def get_embedding(text):
-    response = client.embeddings.create(
-        model="text-embedding-3-small",
-        input=text
-    )
-
-    return response.data[0].embedding
+    try:
+        response = client.embeddings.create(
+            model="text-embedding-3-small",
+            input=text
+        )
+        return response.data[0].embedding
+    except Exception as e:
+        print(f"Embedding error type: {type(e).__name__}")
+        print(f"Embedding error: {e}")
+        print(f"Embedding cause: {repr(e.__cause__)}")
+        raise
 
 
 def search(question):
