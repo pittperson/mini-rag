@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What was the revenue from the PowerMax tech refresh?",
+    "expected": "$2.2M",
+    "source": "rapid-impact.md"
+  },
+  {
+    "question": "What margin did Chris achieve on the PowerMax tech refresh?",
+    "expected": "27 points",
+    "source": "rapid-impact.md"
+  },
+  {
+    "question": "What was the revenue from the net-new disaster recovery solution?",
+    "expected": "$2.2M",
+    "source": "rapid-impact.md"
+  },
+  {
+    "question": "What margin did Chris achieve on the disaster recovery solution?",
+    "expected": "31 points",
+    "source": "rapid-impact.md"
+  },
+  {
+    "question": "How many engineers did Chris lead during the NetApp bank storage migration?",
+    "expected": "5",
+    "source": "migration-team-leadership.md"
+  },
+  {
+    "question": "What technologies did Chris use during the NetApp bank migration?",
+    "expected": "Perl, Bash, and the NetApp SDK",
+    "source": "migration-team-leadership.md"
+  },
+  {
+    "question": "What database did Chris migrate from SQL Server to?",
+    "expected": "Aurora",
+    "source": "cloud-modernization.md"
+  },
+  {
+    "question": "All money saved was due to the database migration, how much did the database migration save per month?",
+    "expected": "$1,400",
+    "source": "cloud-modernization.md"
+  },
+  {
+    "question": "What payment platform did Chris integrate at ERC Today?",
+    "expected": "Stripe",
+    "source": "cloud-modernization.md"
+  },
+  {
+    "question": "What cloud platform does Chris have experience with?",
+    "expected": "AWS",
+    "source": "scaling-saas-through-hypergrowth.md"
+  }
+]
